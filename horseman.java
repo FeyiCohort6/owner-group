@@ -7,3 +7,6 @@ Saturn
 Urenus
 Neptune
 Pluto
+Test assumptions
+fetch
+pull
